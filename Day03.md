@@ -99,7 +99,7 @@ Containers play a major role in DevOps by enabling:
 
 ###  Container Role in CI/CD Pipeline
 
-```mermaid
+
 graph LR
 A[Developer Writes Code] --> B[Build Docker Image]
 B --> C[Run Container Tests]
