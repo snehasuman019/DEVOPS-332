@@ -107,17 +107,7 @@ Container2 --> NET2
 Container2 --> MOUNT2
 
 
-# Control Groups (cgroups) — Introduction
-
-Control groups are used to limit and monitor resource usage of containers.
-
-### They help control:
-CPU usage
-Memory usage
-Disk I/O
-Network bandwidth
-
-#### Benefits of Container Runtime
+### Benefits of Container Runtime
 
 Efficient container lifecycle management
 Faster container startup
@@ -125,21 +115,21 @@ Improved resource utilization
 Enhanced security
 Automation support
 
-#### Benefits of Process Isolation
+### Benefits of Process Isolation
 
 Prevents interference between applications
 Increases system reliability
 Enables safe multi-tenant environments
 Improves performance
 
-#### Benefits of Namespaces
+### Benefits of Namespaces
 
 Strong process and resource isolation
 Independent networking and filesystem
 Better container security
 Enables scalable infrastructure
 
-### Basic Commands Related to Containers
+## Basic Commands Related to Containers
 docker run nginx
 docker ps
 docker stop <container-id>
