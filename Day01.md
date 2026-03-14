@@ -1,6 +1,6 @@
-# 📅 Day 01 — Introduction to DevOps
+#  Day 01 — Introduction to DevOps
 
-## 🌟 What is DevOps?
+##  What is DevOps?
 
 DevOps is a **software development approach and culture** that focuses on collaboration between Development (Dev) and Operations (Ops) teams to build, test, deploy, and maintain applications **faster and more reliably.**
 
@@ -9,10 +9,10 @@ This created delays, failures, and communication gaps.
 
 DevOps solves this by **bringing both teams together with shared responsibility and automation.**
 
-> ✅ DevOps = Faster Development + Continuous Testing + Reliable Deployment
+>  DevOps = Faster Development + Continuous Testing + Reliable Deployment
 
 
-## 🎯 Why DevOps is Needed?
+##  Why DevOps is Needed?
 
 Before DevOps:
 
@@ -31,7 +31,7 @@ After DevOps:
 - Quick feedback and improvement
 
 
-## 🎯 Goals of DevOps
+##  Goals of DevOps
 
 - Faster software delivery
 - Improved collaboration
@@ -42,7 +42,7 @@ After DevOps:
 - High system reliability and scalability
 
 
-## 🔄 DevOps Lifecycle
+## DevOps Lifecycle
 
 DevOps follows a continuous cycle:
 
@@ -56,28 +56,28 @@ DevOps follows a continuous cycle:
 8. **Monitoring & Feedback** → Collecting feedback for improvements  
 
 
-## ⭐ Key Principles of DevOps
+##  Key Principles of DevOps
 
-### 🤝 Collaboration
+###  Collaboration
 Development and Operations teams work together throughout the lifecycle.
 
-### ⚙️ Automation
+###  Automation
 Manual tasks like testing, building, and deployment are automated.
 
-### 🔁 Continuous Integration (CI)
+###  Continuous Integration (CI)
 Developers frequently integrate code changes into a shared repository.
 
-### 🚀 Continuous Deployment (CD)
+###  Continuous Deployment (CD)
 Applications are automatically deployed after successful testing.
 
-### 📊 Monitoring
+### Monitoring
 System performance and logs are continuously monitored.
 
-### 🔄 Feedback Loop
+###  Feedback Loop
 User feedback helps improve the product continuously.
 
 
-## ✅ Benefits of DevOps
+## Benefits of DevOps
 
 - Faster release cycles
 - Increased productivity
@@ -89,7 +89,7 @@ User feedback helps improve the product continuously.
 
 ---
 
-## 🍽 Real Life Example
+##  Real Life Example
 
 Think of DevOps like a restaurant kitchen.
 
