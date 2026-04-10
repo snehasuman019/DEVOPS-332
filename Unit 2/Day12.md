@@ -27,20 +27,20 @@ docker pull httpd
 
 ### Step 2: Run Container
 
-docker run -d --name amish -p 8080:80 httpd
+docker run -d --name sneha -p 8080:80 httpd
 
 
 ### Explanation:
 
 - `-d` → Run in background  
-- `--name amish` → Container name  
+- `--name sneha` → Container name  
 - `-p 8080:80` → Maps host port 8080 to container port 80  
 
 ---
 
 ### Step 3: Modify Web Page Inside Container
 
-docker exec -it amish bash -c "echo '<h1>Hello from Docker</h1>' > /usr/local/apache2/htdocs/index.html"
+docker exec -it sneha bash -c "echo '<h1>Hello from Docker</h1>' > /usr/local/apache2/htdocs/index.html"
 
 
 ### Explanation:
@@ -59,14 +59,14 @@ curl http://localhost:8080
 ### Expected Output:
 <h1>Hello from Docker</h1> ``` id="d11out"
 Step 5: Stop Container
-docker stop amish
+docker stop sneha
 ``` id="d11s5"
 
 ---
 
 ### Step 6: Remove Container
 
-docker rm amish
+docker rm sneha
 
 
 ---

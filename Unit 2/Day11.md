@@ -24,13 +24,13 @@ docker pull ubuntu
 ### Step 2: Run Container with Environment Variable
 
 ```bash
-docker run -e COLLEGE=cse --name amish -it ubuntu /bin/bash
+docker run -e COLLEGE=cse --name sneha -it ubuntu /bin/bash
 ```
 
 ### Explanation:
 
 - `-e COLLEGE=cse` → sets environment variable  
-- `--name amish` → assigns container name  
+- `--name sneha` → assigns container name  
 - `-it` → interactive terminal  
 - `/bin/bash` → opens bash shell  
 
@@ -91,7 +91,7 @@ exit
 ### Step 2: Stop Container from Host
 
 ```bash
-docker stop amish
+docker stop sneha
 ```
 
 ✔ This is the correct approach
