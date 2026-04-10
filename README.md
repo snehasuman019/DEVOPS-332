@@ -164,7 +164,7 @@ Automation ensures:
 # 📈 Repository Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theamishdev&theme=tokyo-night&area=true&hide_border=true"/>
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=snehasuman019&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -172,10 +172,10 @@ Automation ensures:
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amish12/">
+  <a href="www.linkedin.com/in/snehab2a">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50"/>
   </a>
-  <a href="mailto:amishv20@gmail.com">
+  <a href="mailto:snehasuman1901@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50"/>
   </a>
 </p>
