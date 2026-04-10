@@ -14,7 +14,7 @@
 <td align="center" valign="middle" style="padding: 30px;">
 
 <h1 align="center" style="color: #ffffff;">
-  ⚙ DevOps Notes – <span style="color:#00f5d4;">Amish Verma</span>
+  ⚙ DevOps Notes – <span style="color:#00f5d4;">Sneha Suman</span>
 </h1>
 
 <p align="center" style="color:#e2e2e2;">
